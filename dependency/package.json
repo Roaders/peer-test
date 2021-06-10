@@ -14,5 +14,10 @@
   },
   "peerDependencies": {
     "lodash": "^4.17.21"
+  },
+  "peerDependenciesMeta": {
+      "lodash": {
+          "optional": true
+      }
   }
 }
